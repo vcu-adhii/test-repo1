@@ -6,8 +6,6 @@
 
 ![Super-Linter](https://github.com/vcu-chfauerbach/test-repo1/workflows/Super-Linter/badge.svg)
 
-![isort](https://github.com/vcu-chfauerbach/test-repo1/workflows/isort/badge.svg)
-
 Adding a change for the live demo in class.
 
 Added a change for myself
