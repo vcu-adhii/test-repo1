@@ -8,4 +8,4 @@
 
 Adding a change for the live demo in class.
 
-Added
+Added a change for myself
